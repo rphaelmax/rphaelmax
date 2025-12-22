@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**rphaelmax/rphaelmax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Raphael Max
 
-Here are some ideas to get you started:
+Estudante, atualmente desenvolvendo projetos web e aprofundando conhecimentos em redes e sistemas 🤓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<a href="https://rphaelmax.github.io/portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000?style=flat" />
+</a>
+<a href="https://linkedin.com/in/raphael-max" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin" />
+</a>
+
+</div>
