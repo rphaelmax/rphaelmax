@@ -1,6 +1,6 @@
 <div align="center">
 
-# Raphael Max 🛹
+# Raphael Max 🐱‍👤
 
 Estudante, atualmente desenvolvendo projetos web e aprofundando conhecimentos em redes e sistemas 🤓
 
