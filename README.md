@@ -2,7 +2,7 @@
 
 # Raphael Max 🐱‍👤
 
-Estudante, atualmente desenvolvendo projetos web e aprofundando conhecimentos em redes e sistemas 🤓
+Estudante, desenvolvendo projetos de todo tipo como forma de explorar ideias e aprofundar meus conhecimentos em redes e sistemas 🤓
 
 <br/>
 
