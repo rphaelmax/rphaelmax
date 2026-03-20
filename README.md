@@ -2,7 +2,7 @@
 
 # Raphael Max 🐱‍👤
 
-Estudante, desenvolvendo projetos de todo tipo como forma de explorar ideias e aprofundar meus conhecimentos em redes e sistemas 🤓
+Estudante, desenvolvendo projetos de todos os tipos como forma de explorar ideias e aprofundar meus conhecimentos em redes e sistemas 🤓
 
 <br/>
 
